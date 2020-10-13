@@ -3,10 +3,10 @@
 set -eux
 
 #make executable
-sudo chmod +x usearch9.2.64_i86linux32
+#sudo chmod +x usearch9.2.64_i86linux32
 
 #create softlink
-sudo ln -s usearch9.2.64_i86linux32 /usr/local/bin/usearch9
+#sudo ln -s usearch9.2.64_i86linux32 /usr/local/bin/usearch9
 
 ### below workaround from @fomightez: https://github.com/fomightez/modelit-binder/blob/master/binder/postBuild
 # Upon addition of Jupytext, I was seeing it want to build when session launched. Seems
