@@ -10,9 +10,9 @@ set -eux
 jupyter lab build
 
 #make executable
-sudo chmod +x usearch9.2.64_i86linux32
+chmod +x usearch9.2.64_i86linux32
 
 #create softlink
-sudo ln -s usearch9.2.64_i86linux32 /usr/local/bin/usearch9
+ln -s usearch9.2.64_i86linux32 /usr/local/bin/usearch9
 
 
