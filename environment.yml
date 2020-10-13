@@ -1,4 +1,4 @@
-name: env-name-here-does-not-matter
+name: amptk
 channels:
   - conda-forge
   - bioconda
