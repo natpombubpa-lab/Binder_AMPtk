@@ -5,4 +5,4 @@ Initially forked from [here](https://github.com/AstrobioMike/bvcn-binder-checkm)
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NatPombubpa/Binder_AMPtk/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NatPombubpa/Binder_AMPtk/master?urlpath=lab)
