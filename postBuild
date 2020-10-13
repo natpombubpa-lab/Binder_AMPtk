@@ -8,3 +8,11 @@ set -eux
 # >"The Jupytext extension for JupyterLab is bundled with Jupytext. Installing Jupytext will trigger a build of JupyterLab the next time you open it. If you prefer, you can trigger the build manually with `jupyter lab build`"
 # Running that here to avoid it showing pop-up at launch.
 jupyter lab build
+
+#make executable
+sudo chmod +x /path/to/usearch9.2.64_i86osx32
+
+#create softlink
+sudo ln -s /path/to/usearch9.2.64_i86osx32 /usr/local/bin/usearch9
+
+
