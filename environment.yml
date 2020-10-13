@@ -1,4 +1,4 @@
-name: amptk
+name: amptk_v1.5.1
 channels:
   - conda-forge
   - bioconda
