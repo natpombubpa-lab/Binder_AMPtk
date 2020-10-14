@@ -119,3 +119,5 @@ fi
 # formatting prompt
 export PS1="\[$(tput setaf 3)\][\$PWD]\[$(tput sgr0)\]$ "
 
+# adding ~/bin to PATH
+export PATH="~/bin:$PATH"
