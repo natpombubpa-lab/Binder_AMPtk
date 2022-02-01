@@ -4,4 +4,4 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - qiime2
+  - qiime2/label/r2021.11 qiime2
